@@ -67,4 +67,10 @@ function insert_space(text) {
 }
 
 module.exports = insert_space;
+
+/* browser window */
+if (typeof window !== 'undefined') {
+    // If we're running a web page
+    window.pangu = insert_space;
+}
 },{}]},{},[1])
