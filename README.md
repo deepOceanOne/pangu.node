@@ -2,6 +2,8 @@
 
 Spacing texts in Node.js!
 
+[DEMO in browser](http://huei90.github.io/pangu.node/)
+
 The algorithm is from [paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)
 
 ## Getting Started
