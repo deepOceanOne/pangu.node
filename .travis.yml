@@ -3,7 +3,5 @@ node_js:
   - '0.10'
   - '0.11'
   - '4'
-before_script:
-  - npm install -g grunt-cli
 matrix:
   fast_finish: true
