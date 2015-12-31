@@ -10,7 +10,7 @@ The algorithm is from [paranoid-auto-spacing](https://github.com/vinta/paranoid-
 Install the module with: `npm install --save pangunode`
 
 ```javascript
-var pangunode = require('pangunode');
+var pangunode = require('pangunode'); // ES2015: import pangunode from 'pangunode';
 
 pangunode('應該nothing happen');
 // => 應該 nothing happen
