@@ -61,11 +61,15 @@
 <script>
     var generate = function () {
         var input = '',
+            output = '',
             outputEl;
 
         input = document.getElementById('input').value;
         outputEl = document.getElementById('output');
-        outputEl.innerHTML = pangu(input);
+        output = pangu(input);
+        outputEl.innerHTML = output;
+
+        console.log(input + '=>' + output);
     }
 </script>
 </body>
