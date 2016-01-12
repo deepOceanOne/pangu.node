@@ -1,3 +1,11 @@
+:sunny: [pangu.js](https://github.com/vinta/pangu.js) is now supporting [Node.js](https://github.com/vinta/pangu.js#nodejs) :sunny:
+
+I am old :sob:
+
+Good Bye pangu.node :sleeping:
+
+<hr/>
+
 # pangu.node [![Build Status](https://secure.travis-ci.org/huei90/pangu.node.png?branch=master)](http://travis-ci.org/huei90/pangu.node)
 
 Spacing texts in Node.js!
